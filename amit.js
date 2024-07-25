@@ -1,0 +1,1 @@
+const aNumber = window.prompt("Type a name", "");
